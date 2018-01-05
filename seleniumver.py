@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 import re
 dir = './chromedriver'
-ID = "parkhungjoon@naver.com"
-PW = "g2820480"
+ID = "INPUT_YOUR_ID"
+PW = "INPUT_YOUR_PW"
 if __name__ == "__main__":
     driver = webdriver.Chrome(dir)
     driver.get("https://login.aliexpress.com/")
