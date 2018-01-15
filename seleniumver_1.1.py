@@ -30,8 +30,8 @@ if __name__ == "__main__":
                     # print( data.strip())
         except:
             pass
-        IDlist =['khuphj@khu.ac.kr','pgh5986@gmail.com']
-        PWlist =['g2820480','park0429']
+        IDlist =['ID','ID2']
+        PWlist =['PW','PW2']
         listidx = 0
         #chrome_options = webdriver.ChromeOptions()
         #chrome_options.add_argument("--proxy-server=14.52.23.216:8080")
